@@ -1,0 +1,19 @@
+/home/snep/neura-radio/html/music/alternative/1784300078.mp3
+/home/snep/neura-radio/html/music/cyberpunk/1784296872.mp3
+/home/snep/neura-radio/html/music/cyberpunk/1784296908.mp3
+/home/snep/neura-radio/html/music/cyberpunk/1784342949.mp3
+/home/snep/neura-radio/html/music/cyberpunk/1784343047.mp3
+/home/snep/neura-radio/html/music/cyberpunk/1784345552.mp3
+/home/snep/neura-radio/html/music/cyberpunk/Neon Rain 1.mp3
+/home/snep/neura-radio/html/music/cyberpunk/Neon Rain.mp3
+/home/snep/neura-radio/html/music/cyberpunk/Neon Rust 1.mp3
+/home/snep/neura-radio/html/music/cyberpunk/Neon Rust 2.mp3
+/home/snep/neura-radio/html/music/cyberpunk/Neon Rust 3.mp3
+/home/snep/neura-radio/html/music/cyberpunk/Neon Rust 4.mp3
+/home/snep/neura-radio/html/music/cyberpunk/Neon Rust 5.mp3
+/home/snep/neura-radio/html/music/cyberpunk/Neon Rust.mp3
+/home/snep/neura-radio/html/music/cyberpunk/Neon Static (1).mp3
+/home/snep/neura-radio/html/music/cyberpunk/Neon Static 2.mp3
+/home/snep/neura-radio/html/music/cyberpunk/Neon Static.mp3
+/home/snep/neura-radio/html/music/grunge/Motel_Ashes.mp3
+/home/snep/neura-radio/html/music/industrial/1784296721.mp3
