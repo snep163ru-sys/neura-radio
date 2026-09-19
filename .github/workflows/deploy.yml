@@ -10,11 +10,12 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          path: /home/snep/neura-radio
 
       - name: Build and redeploy
+        working-directory: /home/snep/neura-radio
         run: |
-          cd /home/snep/neura-radio
-          git pull origin master
           docker build -t neura-radio:latest .
           docker rm -f neura-radio 2>/dev/null || true
           docker run -d --name neura-radio -p 8082:80 neura-radio:latest
